@@ -3,7 +3,7 @@
 
 #### ScreenKey aparece como uma necessidade de produtividade, quando volto a editar videos no Davinci Resolve no Linux e sinto falta dos atalhos em tela que usava no windows com a tablet Wacom, Inicialmente comecei em python usando Qt6 para elaborar uma paleta de atalhos fixa porém descobri que Qt não era a melhor interface para se ter permissões suficientes para a paleta. E acabei buscando soluções em modelos de códigos usados para compor a programação de teclados virtuais, tentei usar Kivy por ter o KivyMD por ser muito fácil e ter uma documentação intuitiva muito boa e funcionou mas mesmo assim não conseguia fazer que interagisse com o sistema foi onde conheci um projeto indiano de [@surajsinghbisht054](https://github.com/surajsinghbisht054). Acessem seu perfil e contribuam em breve farei comit ao seu projeto com os avanços que obtive. Ele criou um teclado virtual quase funcional que foi a base para a criação da paleta. A paleta para uso já esta sendo o suficiente para os meus trabalhos mas com o tempo irei melhorar aos que quiserem ajudar a resolver alguns dos problemas existentes, sinta-se a vontade. 
 
-#### Concerteza irá ajudar não só a mim quanto a muitos que não possuem essas funcionalidades no linux. 
+#### Concerteza irá ajudar não só a mim quanto a muitos que não possuem essas funcionalidades no linux, ou não possuem uma tablet wacom em outros sistemas. 
 
 
 
